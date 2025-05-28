@@ -5,7 +5,17 @@
 
 The website delivers a secure, high-performance shopping experience for customers buying in bulk or individually.
 
-![Screenshot](./assets/mrcachuchero_screenshot.png)
+### Home Screen 
+![Screenshot](./assets/1.png)
+
+### Store page
+![Screenshot](./assets/2.png)
+
+### Product Details 
+![Screenshot](./assets/3.png)
+
+### Login screen
+![Screenshot](./assets/4.png)
 
 ---
 
