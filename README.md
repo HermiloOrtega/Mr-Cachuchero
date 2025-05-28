@@ -6,16 +6,16 @@
 The website delivers a secure, high-performance shopping experience for customers buying in bulk or individually.
 
 ### Home Screen 
-![Screenshot](./assets/1.png)
+![Screenshot](./assets/1.jpeg)
 
 ### Store page
-![Screenshot](./assets/2.png)
+![Screenshot](./assets/2.jpeg)
 
 ### Product Details 
-![Screenshot](./assets/3.png)
+![Screenshot](./assets/3.jpeg)
 
 ### Login screen
-![Screenshot](./assets/4.png)
+![Screenshot](./assets/4.jpeg)
 
 ---
 
